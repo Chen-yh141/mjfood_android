@@ -14,7 +14,7 @@ import com.lee989898.todayeat.src.recommendFoodList.adapter.RFLAdapter
 import com.lee989898.todayeat.src.recommendFoodList.adapter.RFLAdapter.ItemViewHolder
 import com.lee989898.todayeat.src.recommendFoodList.data.RFLDataSource
 
-
+//recommendFoodlist `s fragment
 class RecommendFoodList : Fragment() {
     private lateinit var binding : FragmentRecommendFoodListBinding
 
